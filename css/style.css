@@ -372,6 +372,17 @@ button {
 .top_img figure img {
      width: 100%;
 }
+.home_img {
+     margin-right: -40px;
+}
+
+.home_img figure {
+     margin: 0;
+}
+
+.home_img figure img {
+     width: 100%;
+}
 
 .carousel-caption {
      position: inherit;
