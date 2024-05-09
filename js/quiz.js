@@ -1,10 +1,10 @@
 const marks = [
     ["Insufficiente","red"],
-    ["Sufficiente","orange"],
+    ["Sufficiente 3/5","orange"],
     ["Discreto","yellow"],
-    ["Buono","green"],
-    ["Ottimo","blue"],
-    ["Perfetto","purple"]
+    ["Buono 4/5","green"],
+    ["Ottimo 4/5","blue"],
+    ["Perfetto 5/5","blue"]
 ]
 
 const getMark = (mark) => {
