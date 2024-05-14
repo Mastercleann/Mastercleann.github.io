@@ -77,7 +77,7 @@ h6 {
 }
 
 h1 {
-     font-size: 21px;
+     font-size: 24px;
 }
 
 h2 {
@@ -342,8 +342,8 @@ button {
 
 .text-bg h1 {
      color: #fff;
-     font-size: 140px;
-     line-height: 116px;
+     font-size: 120px;
+     line-height: 100px;
      font-weight: 600;
      text-transform: uppercase;
 }
