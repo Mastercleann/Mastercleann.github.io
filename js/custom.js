@@ -13,8 +13,8 @@ const changeColor = () => {
     $(".text-bg span").css("color", "#08e8a6");
     $(".text-bg p").css("color", "#fff");
   } else {
-    $(".banner_main").css("background-image","linear-gradient(#ffdd00 43%, #0057b7 0%)");
-    $(".text-bg span").css("color", "#0057b7");
-    $(".text-bg p").css("color", "#ffdd00");
+    $(".banner_main").css("background-image","linear-gradient(#0057b7 43%, #ffdd00 0%)");
+    $(".text-bg span").css("color", "#ffdd00");
+    $(".text-bg p").css("color", "#0057b7");
   }
 }
