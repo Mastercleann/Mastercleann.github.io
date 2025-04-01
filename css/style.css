@@ -305,7 +305,7 @@ button {
 /** banner section **/
 
 .banner_main {
-     background-image: linear-gradient(290deg, #0d67dc 50%, #08be88 100%);
+     background-image: linear-gradient(290deg, #0085A4 50%, #08be88 100%);
      background-repeat: no-repeat;
      min-height: 900px;
      background-position: center center;
@@ -607,7 +607,7 @@ button {
 /** choose section **/
 
 .choose {
-     background-image: linear-gradient(150deg, #0d67dc 10%, #08be88 65%);
+     background-image: linear-gradient(150deg, #0085A4 10%, #08be88 65%);
      background-size: 100% 100%;
      background-position: left;
      background-repeat: no-repeat;
@@ -829,7 +829,7 @@ label {
 /** footer **/
 
 .footer {
-     background-image: linear-gradient(245deg, #0d67dc 15%, #08be88 95%);
+     background-image: linear-gradient(245deg, #0085A4 15%, #08be88 95%);
      background-size: 100% 100%;
      background-position: left;
      background-repeat: no-repeat;
