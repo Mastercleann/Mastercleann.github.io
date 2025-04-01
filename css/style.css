@@ -408,7 +408,7 @@ button {
 #banner1 .carousel-control-next:hover,
 #banner1 .carousel-control-prev:focus,
 #banner1 .carousel-control-next:focus {
-     background: #1268db;
+     background: #0085A4;
      color: #fff;
 }
 
@@ -736,7 +736,7 @@ button {
 #myCarousel .carousel-control-next:hover,
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-next:focus {
-     background: #1268db;
+     background: #0085A4;
      color: #fff;
 }
 
@@ -813,7 +813,7 @@ label {
 }
 
 .send_btn:hover {
-     background: #1268db;
+     background: #0085A4;
      transition: ease-in all 0.5s;
 }
 
@@ -949,7 +949,7 @@ ul.footer_menu li a:hover {
 
 .position_head .header {
      position: inherit;
-     background: #0e68dc;
+     background: #0085A4;
 }
 
 .position_head 
